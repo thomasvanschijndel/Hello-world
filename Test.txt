@@ -1,0 +1,16 @@
+<body>
+<p>
+Hello!!
+test
+=again!
+<h1>heading 1</h1>
+<ul>
+<li>test1</li>
+<li>test2</li>
+Windows - run - cmd: 
+1st command: cd (change directory). cd .. (folder up) or cd -foldernaam- (folder toegang)
+2nd command: dir (listing of files). 
+<ul>
+</p>
+</body>
+</html>
